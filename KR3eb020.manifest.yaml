@@ -1,0 +1,809 @@
+canonical_identifier: bkk:krp/KR3eb020/v1
+canonical_location: https://kanripo.org/bkk/KR3eb020/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 診家正眼
+  identifiers:
+    krp: KR3eb020
+  tags:
+    kr-categories: KR3eb
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eb020.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR3eb020_001.yaml, hash: 'sha256:ec302ac682545cb501ab71d1816d22a770fcc3355a16f18e7e36f69d9f8bc5f0'}
+  - {seq: 2, filename: KR3eb020_002.yaml, hash: 'sha256:4a3e6d2bc3fa387949662a4fc0db8ab076eacd7bb366d5fc5c19be10a801ebf5'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3eb020_001.markers.yaml, hash: 'sha256:5d8073b1dd87b4c6508de4bc29819369bbdc4b26066f38f74e2f9f404ad126e9'}
+  - {seq: 2, role: markers, filename: assets/KR3eb020_002.markers.yaml, hash: 'sha256:359deb91c600646f64aaaba9c4ba3b7d3c3ff77f3ad275c3ceaa5581a2859576'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 23227
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 544
+  label: 脈之名義
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d3
+    span:
+    - body
+    - 544
+    - 846
+  label: 氣口獨以為五臟主
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d4
+    span:
+    - body
+    - 846
+    - 1488
+  label: 脈辨至數
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d5
+    span:
+    - body
+    - 1488
+    - 2157
+  label: 日夜五十營
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d6
+    span:
+    - body
+    - 2157
+    - 2352
+  label: 診貴平旦
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d7
+    span:
+    - body
+    - 2352
+    - 4959
+  label: 寸關尺之義
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d8
+    span:
+    - body
+    - 4959
+    - 5194
+  label: 三焦分配三部
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d9
+    span:
+    - body
+    - 5194
+    - 5326
+  label: 重輕審察
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d10
+    span:
+    - body
+    - 5326
+    - 5731
+  label: 陰陽辨別
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d11
+    span:
+    - body
+    - 5731
+    - 8383
+  label: 內經分配臟腑定位
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d12
+    span:
+    - body
+    - 8383
+    - 8801
+  label: 六氣分合六部時日診候之圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d13
+    span:
+    - body
+    - 8801
+    - 9298
+  label: 政運有不應之脈
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d14
+    span:
+    - body
+    - 9298
+    - 10269
+  label: 人迎氣口
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d15
+    span:
+    - body
+    - 10269
+    - 10433
+  label: 脈分四時六氣
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d16
+    span:
+    - body
+    - 10433
+    - 10557
+  label: 脈分四方
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d17
+    span:
+    - body
+    - 10557
+    - 10576
+  label: 脈分五臟
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d18
+    span:
+    - body
+    - 10576
+    - 10787
+  label: 五臟平脈
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d19
+    span:
+    - body
+    - 10787
+    - 10997
+  label: 五臟病脈
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d20
+    span:
+    - body
+    - 10997
+    - 11294
+  label: 五臟死脈
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d21
+    span:
+    - body
+    - 11294
+    - 11444
+  label: 五臟真脈
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d22
+    span:
+    - body
+    - 11444
+    - 11587
+  label: 脈以胃氣為本
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d23
+    span:
+    - body
+    - 11587
+    - 11770
+  label: 脈貴有神
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d24
+    span:
+    - body
+    - 11770
+    - 11901
+  label: 神門脈
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d25
+    span:
+    - body
+    - 11901
+    - 11947
+  label: 反關脈
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d26
+    span:
+    - body
+    - 11947
+    - 12124
+  label: 衝陽太谿太衝
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d27
+    span:
+    - body
+    - 12124
+    - 12539
+  label: 男女脈異
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d28
+    span:
+    - body
+    - 12539
+    - 12654
+  label: 老少脈異
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d29
+    span:
+    - body
+    - 12654
+    - 12798
+  label: 因形氣以定診說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d30
+    span:
+    - body
+    - 12798
+    - 12861
+  label: 脈無根有兩說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d31
+    span:
+    - body
+    - 12861
+    - 13400
+  label: 女人脈法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d32
+    span:
+    - body
+    - 13400
+    - 13645
+  label: 小兒脈法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d33
+    span:
+    - body
+    - 13645
+    - 13918
+  label: 諸病宜忌之脈
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d34
+    span:
+    - body
+    - 13918
+    - 14039
+  label: 怪脈
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d35
+    span:
+    - body
+    - 14039
+    - 14293
+  label: 七診
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d36
+    span:
+    - body
+    - 14293
+    - 14738
+  label: 必先問明然後診脈
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d37
+    span:
+    - body
+    - 14738
+    - 17106
+  label: 望色
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d38
+    span:
+    - body
+    - 17106
+    - 17720
+  label: 形診
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d39
+    span:
+    - body
+    - 17720
+    - 18108
+  label: 聞聲
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d40
+    span:
+    - body
+    - 18108
+    - 18514
+  label: 問診
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d41
+    span:
+    - body
+    - 18514
+    - 18808
+  label: 望舌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d42
+    span:
+    - body
+    - 18808
+    - 19073
+  label: 死候
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d43
+    span:
+    - body
+    - 19073
+    - 19625
+  label: 臟腑分配於面部
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d44
+    span:
+    - body
+    - 19625
+    - 19726
+  label: 診脈要訣
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d45
+    span:
+    - body
+    - 19726
+    - 20035
+  label: 決死生
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d46
+    span:
+    - body
+    - 20035
+    - 20534
+  label: 辨七表八里九道之非
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d47
+    span:
+    - body
+    - 20534
+    - 21668
+  label: 脈決死期
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb020_jc_001-d2d48
+    span:
+    - body
+    - 21668
+    - 23227
+  label: 奇經八脈
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eb020_jc_002-d3.h1s1
+    span:
+    - body
+    - 0
+    - 13721
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eb020_jc_002-d3d4
+    span:
+    - body
+    - 108
+    - 594
+  label: 浮脈陽
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eb020_jc_002-d3d5
+    span:
+    - body
+    - 594
+    - 1045
+  label: 沉脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eb020_jc_002-d3d6
+    span:
+    - body
+    - 1045
+    - 1463
+  label: 遲脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eb020_jc_002-d3d7
+    span:
+    - body
+    - 1463
+    - 1820
+  label: 數脈陽
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eb020_jc_002-d3d8
+    span:
+    - body
+    - 1820
+    - 2205
+  label: 滑脈陽中之陰
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eb020_jc_002-d3d9
+    span:
+    - body
+    - 2205
+    - 2647
+  label: 澀脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eb020_jc_002-d3d10
+    span:
+    - body
+    - 2647
+    - 3085
+  label: 虛脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eb020_jc_002-d3d11
+    span:
+    - body
+    - 3085
+    - 3546
+  label: 實脈陽
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eb020_jc_002-d3d12
+    span:
+    - body
+    - 3546
+    - 3932
+  label: 長脈陽
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eb020_jc_002-d3d13
+    span:
+    - body
+    - 3932
+    - 4389
+  label: 短脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eb020_jc_002-d3d14
+    span:
+    - body
+    - 4389
+    - 4875
+  label: 洪脈陽
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eb020_jc_002-d3d15
+    span:
+    - body
+    - 4875
+    - 5242
+  label: 微脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eb020_jc_002-d3d16
+    span:
+    - body
+    - 5242
+    - 5647
+  label: 細脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eb020_jc_002-d3d17
+    span:
+    - body
+    - 5647
+    - 6005
+  label: 濡脈陰中之陽
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eb020_jc_002-d3d18
+    span:
+    - body
+    - 6005
+    - 6377
+  label: 弱脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eb020_jc_002-d3d19
+    span:
+    - body
+    - 6377
+    - 6775
+  label: 緊脈陰中之陽
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eb020_jc_002-d3d20
+    span:
+    - body
+    - 6775
+    - 7293
+  label: 緩脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eb020_jc_002-d3d21
+    span:
+    - body
+    - 7293
+    - 7817
+  label: 弦脈陽中之陰
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eb020_jc_002-d3d22
+    span:
+    - body
+    - 7817
+    - 8225
+  label: 動脈陽
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eb020_jc_002-d3d23
+    span:
+    - body
+    - 8225
+    - 8683
+  label: 促脈陽
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eb020_jc_002-d3d24
+    span:
+    - body
+    - 8683
+    - 9055
+  label: 結脈
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eb020_jc_002-d3d25
+    span:
+    - body
+    - 9055
+    - 9794
+  label: 代脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eb020_jc_002-d3d26
+    span:
+    - body
+    - 9794
+    - 10217
+  label: 革脈陽中之陰
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eb020_jc_002-d3d27
+    span:
+    - body
+    - 10217
+    - 10595
+  label: 牢脈陰中之陽
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eb020_jc_002-d3d28
+    span:
+    - body
+    - 10595
+    - 11061
+  label: 散脈
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eb020_jc_002-d3d29
+    span:
+    - body
+    - 11061
+    - 11510
+  label: 芤脈陽中之陰
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eb020_jc_002-d3d30
+    span:
+    - body
+    - 11510
+    - 11878
+  label: 伏脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eb020_jc_002-d3d31
+    span:
+    - body
+    - 11878
+    - 12297
+  label: 疾脈陽
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eb020_jc_002-d3d32
+    span:
+    - body
+    - 12297
+    - 13721
+  label: 脈法總論
+  type: section
+  level: 2
+hash: sha256:4e6e3e6cedcaee96775cf2fbf76d32d0af2177bea4cc795f3418b6287c720dbc
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
