@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eb020/v1
 canonical_location: https://kanripo.org/bkk/KR3eb020/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 診家正眼
   identifiers:
@@ -17,11 +17,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3eb020_001.yaml, hash: 'sha256:64958b68466f3631d0a668ce4cef1217b0e6999456b590e26e2ceb9144faca76'}
-  - {seq: 2, filename: KR3eb020_002.yaml, hash: 'sha256:635e7775b894e3336693916c51c34de5c394507fc0c14300d1b6bc72555cc689'}
+  - {seq: 1, filename: KR3eb020_001.yaml, hash: 'sha256:78c628a2b07f1341a26da9142c080cbc3dd5585c1973e57f5202f2248c61b279'}
+  - {seq: 2, filename: KR3eb020_002.yaml, hash: 'sha256:8ef002c618f1df311e138aad8547608d4468388b5b69419edf2ddf1adccd58c8'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3eb020_001.markers.yaml, hash: 'sha256:c0941f0e9238c40099eb7b232301c9ac5052da85e5c188eff093ac95da25ae8a'}
-  - {seq: 2, role: markers, filename: assets/KR3eb020_002.markers.yaml, hash: 'sha256:e5b99d9210b2fe4ae587e36c3d652420fc3ecc9d4062276128192d47698fd4e2'}
+  - {seq: 1, role: markers, filename: assets/KR3eb020_001.markers.yaml, hash: 'sha256:01f4d502e2bc185be5106d6aad90c3661805aa9a1eb23b9fa5798b27bae1dc4d'}
+  - {seq: 2, role: markers, filename: assets/KR3eb020_002.markers.yaml, hash: 'sha256:0a9ed0483f79973338e80743c6ed7e6d28e759c9db19ca79c4e4cf06ba9f4ba3'}
 table_of_contents:
 - ref:
     seq: 1
@@ -803,4 +803,7 @@ table_of_contents:
   label: 脈法總論
   type: section
   level: 2
-hash: sha256:9a6ec1b4bc1cdaf7799e6c0217e93c311f15e327756a698e8c30a3e8a1883664
+hash: sha256:6b690f948f6f3e80f20aa5e84f10bf726a75f367aafe5ba4d057aca192cfe2f1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
