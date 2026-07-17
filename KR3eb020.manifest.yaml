@@ -20,7 +20,7 @@ assets:
   - {seq: 1, filename: KR3eb020_001.yaml, hash: 'sha256:78c628a2b07f1341a26da9142c080cbc3dd5585c1973e57f5202f2248c61b279'}
   - {seq: 2, filename: KR3eb020_002.yaml, hash: 'sha256:8ef002c618f1df311e138aad8547608d4468388b5b69419edf2ddf1adccd58c8'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3eb020_001.markers.yaml, hash: 'sha256:01f4d502e2bc185be5106d6aad90c3661805aa9a1eb23b9fa5798b27bae1dc4d'}
+  - {seq: 1, role: markers, filename: assets/KR3eb020_001.markers.yaml, hash: 'sha256:123124db6b48fb2df47f943a7aeee6281ac05a3ac543973a48faa42c7936fe7b'}
   - {seq: 2, role: markers, filename: assets/KR3eb020_002.markers.yaml, hash: 'sha256:0a9ed0483f79973338e80743c6ed7e6d28e759c9db19ca79c4e4cf06ba9f4ba3'}
 table_of_contents:
 - ref:
@@ -803,7 +803,7 @@ table_of_contents:
   label: 脈法總論
   type: section
   level: 2
-hash: sha256:6b690f948f6f3e80f20aa5e84f10bf726a75f367aafe5ba4d057aca192cfe2f1
+hash: sha256:939bf182b4842ebf099b76e340df8f938164a0a37c8213b18f23fbc36dccaff7
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

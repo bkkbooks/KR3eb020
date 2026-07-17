@@ -20,7 +20,7 @@ assets:
   - {seq: 1, filename: KR3eb020_001-jc.yaml, hash: 'sha256:64958b68466f3631d0a668ce4cef1217b0e6999456b590e26e2ceb9144faca76'}
   - {seq: 2, filename: KR3eb020_002-jc.yaml, hash: 'sha256:635e7775b894e3336693916c51c34de5c394507fc0c14300d1b6bc72555cc689'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3eb020_001-jc.markers.yaml, hash: 'sha256:fd32281cc664b28835e7feec71ba3c14eef5651799004d42a12f89b17729e696'}
+  - {seq: 1, role: markers, filename: assets/KR3eb020_001-jc.markers.yaml, hash: 'sha256:230df43f89930da6c2394e04c7492460b5219d8d78d419c67b143eecca68ed94'}
   - {seq: 2, role: markers, filename: assets/KR3eb020_002-jc.markers.yaml, hash: 'sha256:77e6252abefbc4cc071da0f683dba7da80986aa2f6f70ee1a832f284756aeb35'}
 table_of_contents:
 - ref:
@@ -803,4 +803,4 @@ table_of_contents:
   label: 脈法總論
   type: section
   level: 2
-hash: sha256:f05cc659927b791ea86493b845c285364f0b3026695641c167b5beba38efd607
+hash: sha256:83b5dda628ab9ee6b29d188725a29caa2a7cfe14207e3adf59677aef5ea38eba
